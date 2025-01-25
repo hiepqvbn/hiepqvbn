@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiepqvbn
-- 👀 I’m interested in robotics, AI, IoT
-- 🌱 I’m currently learning robotics, RL
+- 👀 I’m interested in Robotics, AI, IoT
+- 🌱 I’m currently learning Robotics, RL
 - 💞️ I’m looking to collaborate on building a robotic arm system
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/hiep-nguyen-xuan-a92a9a214/)
 
